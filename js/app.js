@@ -93,3 +93,4 @@
    // Initial counter
    updateCounter();
 })();
+//  here the end of code
